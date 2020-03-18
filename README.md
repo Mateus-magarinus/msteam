@@ -1,4 +1,4 @@
-## Welcome to Trainee API
+## Welcome to msTeam API
 
 API desenvolvida pelos garotos de microserviços da Compasso Tecnologia. //
 

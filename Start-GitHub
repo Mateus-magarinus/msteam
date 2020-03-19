@@ -8,3 +8,8 @@
 8 - Commitar arquivos < git commit -m 'seu comentario' > 
 9 - Adicionar este repositorio < git remote add origin [URL] >
 10 - Enviar para gitHub < git push -u origin nomeDaBranch >
+
+
+
+
+OBS: comando para clonar uma branch específica < git clone -b nomeDaBranch [URL] > 

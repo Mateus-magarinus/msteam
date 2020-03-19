@@ -1,0 +1,10 @@
+1 - Criar uma pasta para o projeto.
+2 - Inicializar o projeto nest < nest new project-name >
+3 - Entrar na pasta criada pelo nest
+4 - Inicializar o git < git init >
+5 - Verificar user.name e user.email < git config --global user.name seuNome && git config --global user.email SeuEmail >
+6 - Trocar para uma nova branch < git checkout -b nomeDaBranch >
+7 - Adicionar arquivos para ser commitados < git add . >
+8 - Commitar arquivos < git commit -m 'seu comentario' > 
+9 - Adicionar este repositorio < git remote add origin [URL] >
+10 - Enviar para gitHub < git push -u origin nomeDaBranch >
